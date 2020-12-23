@@ -1,0 +1,22 @@
+{
+  "name": "monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ArzelaAscoIi/monitor.git"
+  },
+  "keywords": [
+    "monitor"
+  ],
+  "author": "kristof herrmann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArzelaAscoIi/monitor/issues"
+  },
+  "homepage": "https://github.com/ArzelaAscoIi/monitor#readme"
+}
